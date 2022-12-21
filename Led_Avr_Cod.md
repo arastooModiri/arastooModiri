@@ -18,6 +18,4 @@ while (1)
        delay_ms(100);
     }
 }
-arastooModiri/arastooModiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
